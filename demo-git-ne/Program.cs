@@ -12,7 +12,6 @@ namespace demo_git_ne
         {
             //ansdjk
             //asw
-            //ss
-        }
+            //sss
     }
 }
